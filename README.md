@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Ghana's first crypto market place
+- 🔭 I’m currently learning
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about anything ReactJS/React Native
 
