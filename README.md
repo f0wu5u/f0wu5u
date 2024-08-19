@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about anything ReactJS/React Native
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/code-fi) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/f0wu5u) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-fi&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=f0wu5u&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/code-fi) 
+![Profile views](https://gpvc.arturio.dev/f0wu5u) 
