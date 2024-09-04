@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=f0wu5u&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/f0wu5u) 
+![](https://komarev.com/ghpvc/?username=f0wu5ue&color=green)
